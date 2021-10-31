@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/layout/activity_combo.xml" value="0.22" />
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/layout/activity_consulta.xml" value="0.18" />
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/layout/activity_ingresar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/layout/activity_list_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/layout/activity_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/layout/activity_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/AndroidStudioProjects/PM01SQLite/app/src/main/res/xml/provider_paths.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Danelia Palacios/Desktop/PM01SQLite/app/src/main/res/layout/activity_consulta.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/Desktop/PM01SQLite/app/src/main/res/layout/activity_ingresar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/Desktop/PM01SQLite/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/Desktop/Tarea 1.3/app/src/main/res/layout/activity_combo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/Desktop/Tarea 1.3/app/src/main/res/layout/activity_consulta.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/Desktop/Tarea 1.3/app/src/main/res/layout/activity_ingresar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Danelia Palacios/Desktop/Tarea 1.3/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FERNANDO-PC/Desktop/Ejercicio_1.3/app/src/main/res/layout/activity_consulta.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/FERNANDO-PC/Desktop/Ejercicio_1.3/app/src/main/res/layout/activity_ingresar.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/FERNANDO-PC/Desktop/Ejercicio_1.3/app/src/main/res/layout/activity_list_view.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/FERNANDO-PC/Desktop/Ejercicio_1.3/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
