@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.PM01SQLite" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#D200FFC4</item>
-        <item name="colorPrimaryVariant">#B83DBC</item>
+        <item name="colorPrimary">#16C5B4</item>
+        <item name="colorPrimaryVariant">#4CAF50</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
